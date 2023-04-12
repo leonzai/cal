@@ -1,4 +1,4 @@
-package cal
+package github.com/leonzai/cal
 
 var logMessage = "[LOG]"
 
